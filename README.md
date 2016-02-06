@@ -4,7 +4,7 @@ Server
 Данный проект - это серверная часть для демонстрации работы следующих Андроид библиотек:
 * [Connection][1]
 * [Session][2]
-* Uploader
+* [Uploader][3]
 * Profile
 
 Инструкция по установке и настройке
@@ -61,3 +61,4 @@ sudo service apache2 restart
 
 [1]: https://github.com/Igorpi25/Connection
 [2]: https://github.com/Igorpi25/Session
+[3]: https://github.com/Igorpi25/Uploader
